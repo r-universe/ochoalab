@@ -1,0 +1,14 @@
+[
+  {
+    "package": "genio",
+    "oncran": true
+  },
+  {
+    "package": "simfam",
+    "oncran": true
+  },
+  {
+    "package": "simtrait",
+    "oncran": true
+  }
+]

@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "genio"]
+	path = genio
+	url = https://github.com/ochoalab/genio
+	shallow = true
+	registered = true
+[submodule "simfam"]
+	path = simfam
+	url = https://github.com/ochoalab/simfam
+	shallow = true
+	registered = true
+[submodule "simtrait"]
+	path = simtrait
+	url = https://github.com/ochoalab/simtrait
+	shallow = true
+	registered = true
