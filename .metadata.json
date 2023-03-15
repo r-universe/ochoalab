@@ -1,10 +1,10 @@
 [
   {
-    "package": "genio",
+    "package": "simfam",
     "oncran": true
   },
   {
-    "package": "simfam",
+    "package": "genio",
     "oncran": true
   },
   {
