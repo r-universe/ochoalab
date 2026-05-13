@@ -5,6 +5,9 @@
 [submodule "genio"]
 	path = genio
 	url = https://github.com/ochoalab/genio
+[submodule "metalcor"]
+	path = metalcor
+	url = https://github.com/ochoalab/metalcor
 [submodule "simfam"]
 	path = simfam
 	url = https://github.com/ochoalab/simfam
